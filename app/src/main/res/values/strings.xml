@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurant Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_navigator">Navigator</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
